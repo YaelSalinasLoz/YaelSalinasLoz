@@ -1,4 +1,2 @@
-<div align="center">
-<h1 align="center">Hi! I am <a>Emi Salinas</a> 👋</h1>
-</div>
+<h1 align="center">Hi! I'm <a>Emi</a> 👋</h1>
 <img src="https://imgur.com/hC1lxMc.png">
