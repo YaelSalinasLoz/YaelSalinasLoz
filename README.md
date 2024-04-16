@@ -9,7 +9,7 @@
 - 🖌️ Logo Designer
 - 🎥 I’m interested in design, cybersecurity and apps development
 - 🐍 Python, 🎮 C#, 📱Swift, C++
-- 💻 Web Developer
+- 💻 Web Designer
 
 
 <br>
