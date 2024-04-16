@@ -3,7 +3,7 @@
 
 <br>
 
-## Sobre mi
+## About me
 
 - ⭐ Data Intelligence and Cybersecurity Engineering - 6th Semester
 - 🖌️ Logo Designer
