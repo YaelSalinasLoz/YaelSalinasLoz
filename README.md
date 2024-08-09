@@ -5,7 +5,7 @@
 
 ## About me
 
-- ⭐ Data Intelligence and Cybersecurity Engineering - 6th Semester
+- ⭐ Data Intelligence and Cybersecurity Engineering - 7th Semester
 - 🖌️ Logo Designer
 - 🎥 I’m interested in design, cybersecurity and apps development
 - 🐍 Python, 🎮 C#, 📱Swift, C++
